@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I’m @kspoojith<br><br>- 👀 B.Tech Student | **Full-Stack Developer** in the making. I love working on AI-based projects<br>- 🌱 I’m looking to collaborate on AI/ML research projects, software engineering applications, and innovative startups. If you have an exciting idea, let’s work together!<br>- 📫 How to reach me: You can connect with me on LinkedIn or email me for collaborations and discussions.<br>
 
 
