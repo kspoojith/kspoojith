@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kspoojith<br><br>- 👀 B.Tech Student | **Full-Stack Developer** in the making. I love working on AI-based projects<br>- 🌱 I’m currently learning  ML techniques, algorithm optimization, and AI-driven story script generation. I also enjoy exploring graph algorithms and network analysis.<br>- 💞️ I’m looking to collaborate on AI/ML research projects, software engineering applications, and innovative startups. If you have an exciting idea, let’s work together!<br>- 📫 How to reach me: You can connect with me on LinkedIn or email me for collaborations and discussions.<br>
+👋 Hi, I’m @kspoojith<br><br>- 👀 B.Tech Student | **Full-Stack Developer** in the making. I love working on AI-based projects | currently learning  ML techniques, algorithm optimization | also enjoy exploring graph algorithms and network analysis | looking to collaborate on AI/ML research projects, software engineering applications, and innovative startups. If you have an exciting idea, let’s work together! | connect with me on LinkedIn or email me for collaborations and discussions.<br>
 
 
 ## 🌐 Socials:
